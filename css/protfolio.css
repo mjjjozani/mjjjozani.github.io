@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#h2{
+    text-align: center;
+    color: #9f9f9f;
+    margin-top: 60px;
+    font-size: 20px;
+
+}
+#h1{
+    text-align: center;
+    color: #9f9f9f;
+}
